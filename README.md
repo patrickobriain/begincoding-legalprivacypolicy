@@ -1,0 +1,2 @@
+# begincoding-legalprivacypolicy
+GitHub Pages
